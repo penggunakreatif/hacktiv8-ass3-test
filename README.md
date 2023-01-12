@@ -3,7 +3,7 @@ Assignment 3 TESTING
 
 #### 1. Clone Git
 ```sh
-git clone https://github.com/penggunakreatif/hacktiv8-ass2-jwt.git
+git clone https://github.com/penggunakreatif/hacktiv8-ass3-test.git
 ```
 
 #### 2. Rename file `.env.example` to `.env`
